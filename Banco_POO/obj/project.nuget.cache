@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ke7QVCMlrPLYk3c42U7ktpL6wVqURxx4FudrQRAP8+jz9UGEoeLdoO3GUQ0pPvjFRmNTg/jAhnrlU8sWt4jIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\Desktop\\REVISAO\\Banco_POO\\Banco_POO\\Banco_POO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

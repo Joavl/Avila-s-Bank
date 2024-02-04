@@ -1,0 +1,14 @@
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\bin\Debug\net7.0\Banco_POO.exe
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\bin\Debug\net7.0\Banco_POO.deps.json
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\bin\Debug\net7.0\Banco_POO.runtimeconfig.json
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\bin\Debug\net7.0\Banco_POO.dll
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\bin\Debug\net7.0\Banco_POO.pdb
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\Banco_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\Banco_POO.AssemblyInfoInputs.cache
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\Banco_POO.AssemblyInfo.cs
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\Banco_POO.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\Banco_POO.dll
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\refint\Banco_POO.dll
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\Banco_POO.pdb
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\Banco_POO.genruntimeconfig.cache
+C:\Users\joaov\Desktop\REVISAO\Banco_POO\Banco_POO\obj\Debug\net7.0\ref\Banco_POO.dll
